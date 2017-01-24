@@ -1,0 +1,11 @@
+{
+  "name": "delivtrack",
+  "version": "1.0.0",
+  "description": "A library to easilt update the deliverables tracker database in mLab. Includes functions for CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Cofield",
+  "license": "ISC"
+}
